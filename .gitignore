@@ -1,0 +1,18 @@
+# Android/Gradle
+.gradle/
+.cxx/
+.externalNativeBuild/
+**/build/
+.idea/
+*.iml
+local.properties
+captures/
+
+*.apk
+*.aab
+
+*.jks
+*.keystore
+keystore.properties
+
+app/google-services.json
